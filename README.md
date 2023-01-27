@@ -1,3 +1,5 @@
+Clear Logs
+
 1 Save the .bat file to your desktop.
 
 2 Unblock the .bat file.
